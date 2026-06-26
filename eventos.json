@@ -1,0 +1,35 @@
+[
+    {
+        "nombre del usuario": "Bayron",
+        "nombre del evento": "Nombramiento de Caballeros",
+        "fecha del evento": "2026-03-08",
+        "hora de inicio del evento": "09:00:00",
+        "hora de fin del evento": "16:00:00",
+        "recursos del evento": [
+            "Palomas",
+            "Rey"
+        ]
+    },
+    {
+        "nombre del usuario": "kjkolh\u00f1o",
+        "nombre del evento": "Nombramiento de Caballeros",
+        "fecha del evento": "2026-02-21",
+        "hora de inicio del evento": "12:00:00",
+        "hora de fin del evento": "14:45:00",
+        "recursos del evento": [
+            "Rey"
+        ]
+    },
+    {
+        "nombre del usuario": "kjkolh\u00f1o",
+        "nombre del evento": "Nombramiento de Caballeros",
+        "fecha del evento": "2026-02-21",
+        "hora de inicio del evento": "12:00:00",
+        "hora de fin del evento": "14:45:00",
+        "recursos del evento": [
+            "Rey",
+            "Reina",
+            "Espada"
+        ]
+    }
+]
